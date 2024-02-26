@@ -1,19 +1,15 @@
-<!--
-**vruumllc/vruumllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="rp6502.png" align="left" width="150px"/>
+Hi, I'm tonyvr
 
-Here are some ideas to get you started:
+---------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="rp6502.png">
- <source media="(prefers-color-scheme: light)" srcset="rp6502.png">
- <img alt="An image of the RP6502 portable that I designed" src="rp6502.png">
-</picture>
+My GitHub handle is vruumllc, because VRUUM LLC is the entity I created for consulting.
+
+'VRUUM' is that loud sucking sound heard when my hobbies encounter my bank account.
+
+My latest obsession is with the 'Picocomputer 6502', otherwise known as the RP6502.
+
+
+<br clear="left"/>
+
+.
