@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="rp6502.png">
+ <source media="(prefers-color-scheme: light)" srcset="rp6502.png">
+ <img alt="here is my image" src="rp6502.png">
+</picture>
