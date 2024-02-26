@@ -1,4 +1,4 @@
-<img src="rp6502.png" align="left" width="225px"/>
+<img src="rp6502.png" align="left" width="250px"/>
 
 -----------
 
@@ -15,6 +15,7 @@ My latest obsession is with the [Picocomputer 6502](https://picocomputer.github.
 
 The 'RP6502 Portable' I designed is shown at left. See my other RP6502 projects below! 
 
+-----------
 <br clear="left"/>
 
 .
