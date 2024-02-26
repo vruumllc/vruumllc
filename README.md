@@ -13,7 +13,7 @@ My GitHub handle is vruumllc, because VRUUM LLC is the entity I created for cons
 
 My latest obsession is with the [Picocomputer 6502](https://picocomputer.github.io/), otherwise known as the RP6502.
 
-The [RP6502 Portable](https://github.com/orgs/picocomputer/discussions/50) I designed is shown at left. See my other RP6502 projects below! 
+Here's the [RP6502 Portable](https://github.com/orgs/picocomputer/discussions/50) I designed. See other RP6502 projects below! 
 
 -----------
 <br clear="left"/>
