@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="rp6502.png">
  <source media="(prefers-color-scheme: light)" srcset="rp6502.png">
- <img alt="here is my image" src="rp6502.png">
+ <img alt="An image of the RP6502 portable that I designed" src="rp6502.png">
 </picture>
