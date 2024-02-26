@@ -15,7 +15,7 @@ My latest obsession is with the [Picocomputer 6502](https://picocomputer.github.
 
 I designed some 3D-printed cases for it. My 'RP6502 Portable' is shown at left.
 
-All my RP6502-related projects, including the cases, games, and utilites, are available below.
+All my RP6502-related  cases, games, and utilites, are available below. ENJOY!
 
 <br clear="left"/>
 
