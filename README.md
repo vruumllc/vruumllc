@@ -1,5 +1,5 @@
-<img src="vruumbox_hub_front.jpeg" align="left" height="395px"/>
-<img src="vr65816_revA_SN0001.jpeg" align="right" height="395px"/>
+<img src="vruumbox_hub_front.jpeg" align="left" height="345px"/>
+<img src="vr65816_revA_SN0001.jpeg" align="right" height="345px"/>
 <br clear="right"/>
 
 -----------
