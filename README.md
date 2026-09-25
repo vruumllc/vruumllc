@@ -2,6 +2,8 @@
 <img src="vr65816_revA_SN0001.jpeg" align="right" width="395px"/>
 <br clear="right"/>
 
+-----------
+
 Hi, I'm **tonyvr!**
 
 -----------
