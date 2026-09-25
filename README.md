@@ -1,9 +1,6 @@
 <img src="vr65816_revA_SN0001.jpeg" align="left" width="395px"/>
-
 <img src="vruumbox_hub_front.jpeg" align="right" width="395px"/>
-
 <br clear="right"/>
-
 
 Hi, I'm **tonyvr!**
 
