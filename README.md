@@ -4,7 +4,6 @@
 <img src="vruumbox_hub_rear.jpeg" align="right" width="395px"/>
 
 <br clear="right"/>
------------
 
 Hi, I'm **tonyvr!**
 
