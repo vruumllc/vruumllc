@@ -3,6 +3,7 @@
 
 <img src="vruumbox_hub_rear.jpeg" align="right" width="395px"/>
 
+<br clear="right"/>
 -----------
 
 Hi, I'm **tonyvr!**
@@ -15,4 +16,4 @@ My GitHub handle is vruumllc, because VRUUM LLC is the entity I created for cons
 
 My latest obsession is with the [vr65816](https://github.com/vruumllc/vr65816_PCB), a [Picocomputer](https://picocomputer.github.io/) compatible.
 
-<br clear="right"/>
+
