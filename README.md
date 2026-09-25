@@ -1,9 +1,9 @@
-<img src="vruumbox_hub_front.jpeg" align="left" width="250px"/>
+
+<img src="vruumbox_hub_front.jpeg" width="800px"/>
 
 -----------
 
 Hi, I'm **tonyvr!**
-
 
 -----------
 
